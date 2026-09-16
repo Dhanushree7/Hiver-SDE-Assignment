@@ -1,0 +1,212 @@
+customer_tweet_id,customer_text,gold_intent,top1_similarity,top3_mean_similarity
+2000389,I'm over Apple and the keyboard fucking up o v e r it @115858 get your shit together bro,keyboard_input,0.7592496871948242,0.7467824021975199
+1181504,"@397857 @115858 How can an update change battery drain so much? All I know is it does, 3 charges today!",battery_power,0.7678704261779785,0.7345568339029948
+2010075,@AppleSupport I cannot change my Apple ID as the verification code is being sent to a closed email address. Help!,apple_id_account,0.7305445671081543,0.7181474765141805
+2757530,@AppleSupport seeing a new oddity with iOS 11. Recently reset whole phone and restored a backup. This resulted in a massive improvement from the auto-update (Good). However now sometimes apps won’t load at all and hang on the splash screen. Happens for all apps when it hits.,apps_services,0.7261159420013428,0.7204575538635254
+1620586,So I️ think everyone accepted the stupid fucking question mark boxes @115858 except me this shit is annoying,keyboard_input,0.7365870475769043,0.7041495442390442
+1337287,So @115858 do I have to buy a new line from Apple store to buy iPhone x???  Just want my phone!  Can’t place an order!  Trying to pay $$$ https://t.co/S4nWhtXH5D,purchases_orders_refunds,0.7156155109405518,0.6842259168624878
+1874494,I’m tired of @115858 having such easily crackable phones. This is the fourth time and it doesn’t matter if I have a case or not,hardware_accessories,0.6880605220794678,0.677536129951477
+2123864,"@AppleSupport HD camera in my new MacBookPro (2016) is not HD at all. No matter the light, there is always grain on the picture. Is it the hardware problem or is it normal that MBP camera sucks?",hardware_accessories,0.5395689010620117,0.5370415250460306
+2616499,@739051 @AppleSupport I just bought my iphone 6 second hand. I thought it was a dodgy battery because it drained quick. It looks like I'm not the only one. Hmmmm!,apple_id_account,0.7436985969543457,0.7325678467750549
+2633110,"@AppleSupport I am experiencing massive #Bluetooth issues with my #iPhoneX. Dropouts with Bluetooth headphones, even #AirPods, spotty connection to Apple Watch Series 3. Highly aggravating. 😔 Any hints what I could do?",connectivity,0.6535137891769409,0.6437413493792216
+1151854,@AppleSupport which drops the battery time even if the iphone is in standby. please check and fix,battery_power,0.7223411798477173,0.7158154050509135
+2814797,@115858 your products are junk. My headphones broke within 3 months of purchase with my iPhone 7. I've barely even used it and I'm in a temperate climate. What excuse do you have for such a short lived trash product for that price?!,hardware_accessories,0.6011408567428589,0.5977039138476054
+2578723,"Every time I try to type “it”, my phone autocorrects to “I.T” WTF @115858 @AppleSupport. These updates have been pure trash!",keyboard_input,0.7771629691123962,0.7683517336845398
+2283391,@AppleSupport 3D touch in screen #ios11 isn’t work why?,hardware_accessories,0.7317038774490356,0.7272321780522665
+1974749,Why does my I️ key keep coming out like the question mark symbol? @AppleSupport,keyboard_input,0.779303252696991,0.7779534657796224
+2453292,@AppleSupport I have a IPHONE 7 plus since new download of IOS11 all my voice mail no longer transcribe. I want it back!! What do I do?????,apps_services,0.6690356731414795,0.6315921743710836
+1020880,"@AppleSupport I pre-purchased a book in iBooks that should be available now, but iBooks only shows it as bought - can‘t download. Now what?",purchases_orders_refunds,0.8596252202987671,0.6777815024058024
+2014699,@AppleSupport I downloaded the new iOS and my battery life has become non existent. Pls send help,battery_power,0.7869748473167419,0.7761983076731364
+2116232,@AppleSupport my itunes gift card money mysteriously disappeared  from my itunes account?,purchases_orders_refunds,0.6858190298080444,0.6800401409467062
+1266534,@AppleSupport UPDATE OUR PHONES MINE KEEPS FREEZING WHAT IF IM DYING,device_performance,0.9073009490966797,0.8921769658724467
+898638,"@AppleSupport I’ve tried both, cellular data and WiFi and it’s the latest update",connectivity,0.7929894328117371,0.7546748717625936
+679934,"@AppleSupport So when the Apple Watch isn't able to control the music app on the phone, is it the watch, or the phone that is failing?",apps_services,0.6681450605392456,0.6567274332046509
+995133,@AppleSupport why does my music player always appear on my lock screen? I’m not playing music nor is it connected to a Bluetooth device.,apps_services,0.7616395950317383,0.7265381018320719
+2448326,"@AppleSupport I just bought an Apple Watch Series 1 and it says I have to update it to the latest software. After many phone and Watch restarts, it keeps getting stuck on either the “Checking for Update...” or the actual update itself. What can I do?",ios_update_issues,0.7386298179626465,0.6692216992378235
+1800145,"@115858 come February, I’ll be team note 8. I’ve never seen so many glitches. My phone isn’t even a year old! My battery life is horrible too",battery_power,0.6890560984611511,0.6846839388211569
+270317,Why @115858 won’t let me update my payment. It keeps saying card declined when I have money in my account! #iOS11,purchases_orders_refunds,0.6868178248405457,0.6839915911356608
+2856754,"@AppleSupport Thanks, yes I did install the update last night. My texts are glitchy - won't open outside links, can't text photos without going into text message first, etc. Also, phone randomly shuts down around 45F or less.",ios_update_issues,0.6651146411895752,0.6550515294075012
+2818594,@115858 needs to get it together. My phone has been freezing since the update.,device_performance,0.8125450015068054,0.8014611005783081
+1013791,@AppleSupport app starts to cycle like its looking for something. Freezes then shuts down. started doing this with the last iOS upgrade. I don’t have time,ios_update_issues,0.7968584895133972,0.7728116313616434
+2925619,"@AppleSupport Updated my new 2 days old ipad pro to 11.1.2. 
+FaceTime quality has dropped remarkably. Person on the other side says image looks blurred, as if a glass is placed on camera. When I FaceTime using iphone X using the same wifi, there is no issue. Is this a ios bug?",ios_update_issues,0.5974177122116089,0.5850457747777303
+1441471,@116333 APPLE CANCELLED MY IPHONE X PREORDER .HELP ME,purchases_orders_refunds,0.7531921863555908,0.7264551917711893
+2282253,Hey @AppleSupport is it a known issue that when the 2016 Macbook Pro Touchbar users that when the Macbook heats up the keyboard starts sticking?,hardware_accessories,0.49419695138931274,0.47866437832514447
+1888619,"@AppleSupport even on ios 11.1 beta 4 my music (applemusic, spotify etc.) stops when im using 3d touch or another app. Thanks for fixin soon",apps_services,0.7449688911437988,0.7205955386161804
+1109546,@115858 issue with the iOS update. Laggy and unresponsive on screen at times. Will stall and freeze. Please fix.,device_performance,0.852331817150116,0.8064464728037516
+366986,@115858 I was charged for a subscription that I canceled the same day I accepted the free trails why was I charged?,purchases_orders_refunds,0.5896320343017578,0.5621540745099386
+1833596,"@115858 @118936 @AppleSupport my phone is constantly freezing whenever I open any apps and I can’t search the App Store, it times out!",device_performance,0.7681141495704651,0.7604963978131613
+124421,Thanks apple for your latest updates I can’t open my music app @AppleSupport @115948,apps_services,0.7823965549468994,0.7743483185768127
+1211806,"No apps in new iTunes, and iOS App Store did away with wishlists. @115858, are you telling me you don’t want me to buy apps anymore? WTH?",apps_services,0.6343611478805542,0.6030439337094625
+333252,Anyone else having trouble after latest @115858 update? Blue tooth loves to turn itself on and WiFi connection is constantly dropping.,connectivity,0.6719474792480469,0.6567197243372599
+810359,"@AppleSupport Love iOS 11 on iPad, it makes my iPad like Mac.But the battery issue need to be fixed.My iPad is Air 2,and iOS version is 11.0.2.",battery_power,0.6712937355041504,0.6635387341181437
+2975706,@AppleSupport Ever since the last recent iOS update my iPhone 6s randomly becomes very slow and reboots. Why is this happening?,device_performance,0.7918912172317505,0.7772318124771118
+1204160,@AppleSupport my new iPhone 6s battery is useless. Fully charged last night and now in low power mode! Hardly used and no Apps Open!!,battery_power,0.7156862020492554,0.7093224922815958
+873948,"Hey @AppleSupport, the update to the podcast app seems to have added a click or two to the process of actually playing a podcast 👎",apps_services,0.7529758214950562,0.7494669556617737
+1954372,@AppleSupport IPhone 6 - Lag and touchscreen problems after ios 11.0.3,device_performance,0.81899094581604,0.7805845737457275
+2296203,"@AppleSupport , setting up iPhone X as new mobile under existing Apple ID.  End result: Apple ID got locked out without at anytime mistyping password. Later forced to change password and naturally laptops, all devices need to have password changed as well. WHY?????",apple_id_account,0.6479367017745972,0.6147849162419637
+2140986,Hi @AppleSupport. I️ have an issue when I️ type the letter I️. Just saw it on a friend’s message. Screenshot below. Can you help? https://t.co/LLZxw7CoPV,keyboard_input,0.8496695160865784,0.814342180887858
+2060791,Aftr t new app update @4305 doesn't show notifications until I open the https://t.co/srWvNzKJrn @AppleSupport,apps_services,0.7835531234741211,0.7548733154932658
+35988,@AppleSupport I bought an Apple Watch just over a wk ago &amp; already the screen is very badly scratched.I really dont think it’s fit for purpose. #nothappy,hardware_accessories,0.5722838640213013,0.5524129271507263
+665837,@AppleSupport And i don't know why it did not charge it's the first time it does that..,battery_power,0.7941572666168213,0.7281775871912638
+2043931,"@AppleSupport your iOS 11 update is absolutely dreadful, makes everything slower and causes some apps to freeze, it feels like a Nokia 3310.",ios_update_issues,0.8281822204589844,0.8239814440409342
+1522739,I took such a nice snap and then my phone froze. @115858 I hate your new iOS. Fix. It.,device_performance,0.7330002784729004,0.7245234449704488
+2422609,@AppleSupport how y’all gonna release an update that doesn’t have a fix for that stupid question mark thing?? FIX IT,keyboard_input,0.7539693117141724,0.7321601112683614
+1270262,"@AppleSupport HELP!! using v11.03, deleted unused apps, I’ve deleted pics from phone but bloody phone keeps freezing &amp; turning itself off 😡",device_performance,0.7403896450996399,0.7172794143358866
+284411,On god my apps have never crashed this much in a short span of time...@115858 y’all need to fix iOS 11 smh,ios_update_issues,0.8070694208145142,0.7931560277938843
+2381388,@AppleSupport I need help trying to get my account back on my iPod 4,apple_id_account,0.7292640209197998,0.69702676932017
+2726046,"@AppleSupport, @104532 has asked me to contact you regarding a refund which you’re refusing to honour. Please can you help?",purchases_orders_refunds,0.7515248656272888,0.7306074102719625
+2286749,"@AppleSupport Restarting didn't help, but connecting to iTunes did. Now on iOS 11.1.1 Thanks.",ios_update_issues,0.8241399526596069,0.8192309935887655
+2558616,stop automatically putting my wifi &amp; bluetooth on @115858,connectivity,0.7002878189086914,0.6813440322875977
+767422,@AppleSupport iPhone 7 Plus battery draining and iPhone 6 Constantly freezing and switching off since I updated to iOS  11.0.2 #apple #iOS11,ios_update_issues,0.8231823444366455,0.7997854153315226
+1489568,@AppleSupport CAN tou fix slow keyboard since thé last udapte it s horrible,keyboard_input,0.6066248416900635,0.6013795932133993
+2237361,When you gonna fix this question mark box bull shit? @115858 @AppleSupport,keyboard_input,0.7660830020904541,0.7579247752825419
+2949592,@AppleSupport When will we get the TV app in the UK?,apps_services,0.616748034954071,0.5742210745811462
+2062112,@AppleSupport when can we expect a solution to faster battery drains with ios11 and its successors..?Seems Apple is helpless in this regard!,battery_power,0.8093028664588928,0.8042794466018677
+449438,@AppleSupport I can’t sync up with anything,apps_services,0.7914410829544067,0.7836031715075175
+2072072,IOS 11 has ruined my battery life 💔I hope @AppleSupport fixes this with the next update,battery_power,0.8747389912605286,0.8709483941396078
+2734134,Wow I really just love when my battery is almost full but then I use @917 a few times &amp; it makes my phone crash and restart and wipe my battery down to 10% it just makes my day thanks @115858 I love iPhones 😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊,battery_power,0.7196377515792847,0.7004053393999735
+1168589,"iOS 11.0.3 has killed WiFi, even more unstable and more restarts than the last update 🙄 sort it out @AppleSupport last few have been a joke",ios_update_issues,0.7721738815307617,0.7661681175231934
+2147725,Yo apple is doing the whole “I️” so we get ignorant and stop typing in complete sentences.. you’re not fooling anyone @115858,keyboard_input,0.6679844856262207,0.650914748509725
+565023,"@AppleSupport Mail app on the phone where you can add various emails. I’m with att, sbcglobal and https://t.co/cN8EKPoDfo extensions. I’ve had these for years on various iPhones. Noticed the delays the last several several months (6 maybe) on WiFi or not.",apps_services,0.677413284778595,0.6347086032231649
+1100844,"@AppleSupport Hi, what’s this at my credit card extra? Why am I charged? Could you please help me? https://t.co/yiE0hUoTgG",purchases_orders_refunds,0.6750198602676392,0.6235328118006388
+963353,HOW COME MY GIFS ARENT WORKING WHEN IM ON DATA @AppleSupport,connectivity,0.7252985835075378,0.6519456704457601
+2051989,Please @AppleSupport @115858 fix the battery issues in the iPhone 6S with iOS 11 pleaseee 😭😭😭😭😭,battery_power,0.8677254915237427,0.8223667144775391
+2076419,"@614107 @115858 Literally! My phone keeps freezing and I have to keep hard resetting it, proper annoying",device_performance,0.8090988397598267,0.7984829346338908
+1805815,"@115858 what is the procedure for degrade ios from 11 to 10..??
+
+As your ios 11 is pathetically stupid &amp; bugicious😂",ios_update_issues,0.7793632745742798,0.7657826145490011
+243305,"@118936 @115858 @AppleSupport @2310 battery draining like hell on ios 11 i phone 6s 
+Plz check this. 🙏",battery_power,0.8555290699005127,0.8338901996612549
+2792066,"@115858 1yr old $3k laptop should be able to handle Chrome and a second program without freezing or crashing EVERY DAY. Giving you one more chance (""upgrading"" to 15"", gag), then lifelong Apple die-hard goes to PC. And will expect a refund.",device_performance,0.5142880082130432,0.5045741597811381
+2647130,My iPhone is stating to heat up when it’s just sitting there. Thanks @115858 for the hot fire update to ruin my phone......again,ios_update_issues,0.7046564817428589,0.694973905881246
+1185829,Dear @115858 - your software updates used to make phone better- now they make it worse. Too much phone freezing and crashes. #whathappened,ios_update_issues,0.8642995357513428,0.8277037739753723
+1689399,To the @115858 battery ghost secretly turning on our bluetooth over and over again: PLEASE stop #iOS11,ios_update_issues,0.7167684435844421,0.6998144189516703
+2438567,@AppleSupport Sure. iPhone 6 was working great. Updated since iPhone 8 came out with new software and now it is extremely slow and painful,ios_update_issues,0.7684693932533264,0.7592034141222636
+609280,"@AppleSupport Left iOS beta program, deleted profile from phone. Still getting beta updates and not 11.0.2  Help please?",ios_update_issues,0.6651170253753662,0.6594468355178833
+403562,why did my entire camera roll just randomly completely clear then restore? and why is a vid from june is the most recent item? @AppleSupport https://t.co/aTvndqZau0,photos_data,0.5635570883750916,0.5503291487693787
+1684529,@115858 fix yalls damn keyboard,keyboard_input,0.9269553422927856,0.8668332497278849
+2948214,@AppleSupport I’ve hard to hard restart my computer 6x in last two days since I updated to High Sierra. Adobe was first issue. Now finder is crashing and won’t relaunch. How about an update to fix all of the bugs in High Sierra please? I refuse to update my personal computer because of this.,ios_update_issues,0.6674442887306213,0.6257348457972208
+208261,@AppleSupport On my MBP with Yosemite I can’t update any app nor download new because verification always fail. How do I turn it off?,apps_services,0.6836880445480347,0.6651015281677246
+1925568,"iOS update seems to have killed my battery, any ideas why @AppleSupport #ios #apple #iPhone6",battery_power,0.8225439786911011,0.7999508579572042
+2913288,@AppleSupport I did not back up before updating. Yes i have a macbook,apps_services,0.7727078199386597,0.7374884684880575
+2072314,@AppleSupport I can’t disable &amp; delete Siri from my iCloud. It just does nothing...,apple_id_account,0.6972579956054688,0.6886433760325114
+1567544,@AppleSupport No I’m just so let down by @AppleSupport  And your ‘senior advisors’ all my iCloud has been deleted after 6 years and no one is helping,apple_id_account,0.6400995254516602,0.6349382599194845
+513657,"Naranasan niyo po ba yung magcrash lahat ng apps kahit cam roll, like within 1-2mins of using tapos magsshow yung 1st and 2nd photo. Tapos init agad phone HUHU PLS HELP @AppleSupport https://t.co/tSxV6rxJbo",apps_services,0.4591791033744812,0.44824571410814923
+712078,@115858 this damn IOS sucks. If I’m listening to a podcast and turn volume up it goes to music. And vise versa... TERRIBLE,apps_services,0.7231907248497009,0.7028361360232035
+661610,@AppleSupport iOS 11 make my battery die! 😭😔 - IPhone 6s,battery_power,0.8259971141815186,0.8203712105751038
+956058,@115858 love it when my headphones break + fuck up my phone so i cant listen to a song without wnating to throw jt at a fucking wall,hardware_accessories,0.7048466205596924,0.6965375741322836
+457176,@AppleSupport version 11.1.2 It started out of nowhere i did the update and it was fine and then all of a sudden it started autocorrecting it to tha\t’,keyboard_input,0.773646354675293,0.7726118961970011
+2838680,"Every #iOS upgrade brings with it fresh problems and user-unfriendly changes. Why does my lock screen now have ""Apple Music"" on it with a play button center screen? I can't get rid of it! Help me @AppleSupport !",apps_services,0.7243795394897461,0.6966208020846049
+2298606,The iPhone update sucks ass. Phone worked fine and now it’s trash @115858 @AppleSupport,ios_update_issues,0.8147643804550171,0.8115061521530151
+282529,@115858 @116333 I urgently resolve the problem with my iPhone. 📱 Contact ID: 100314535803,other_unclear,0.7283536791801453,0.7223520080248514
+216133,@115858 @AppleSupport how come I get my phone replaced with a new iPhone 7 and everything is here but my photos and my brother bought a iPhone X and had the exact same problem,photos_data,0.7071337699890137,0.7001946171124777
+2619794,"Since the new update, my phones going so slow, stuttering and stalling 😩😩 @AppleSupport",ios_update_issues,0.7961317300796509,0.7875065406163534
+1933305,Hey @115858. Fix your iOS. Bluetooth is supposed to work.,connectivity,0.7564347982406616,0.7483505606651306
+1402935,Same day the iPhone X is released my 6s+ can’t hold a charge and won’t recognize my camera... come on @115858,hardware_accessories,0.695655107498169,0.6697758038838705
+336650,@AppleSupport TV4 x 2. 1 accepts @798.com address for iCloud and 1 switches to @1113.com address once I log in. @798 shows HOME and @1113 doesnt,apple_id_account,0.6135672330856323,0.5961635112762451
+511171,"What’s up with iOS 11, @AppleSupport? IPhone 7 Plus rendered unusable after the update.",ios_update_issues,0.8836522698402405,0.8479802012443542
+709071,Am I the only one whose phone is burning up now that I’ve updated my software to the latest version of iOS? @AppleSupport,ios_update_issues,0.7502837181091309,0.7370989322662354
+1839657,@AppleSupport yo your new update has literally ruined my 7 . why? why??,ios_update_issues,0.7558830380439758,0.7351443568865458
+150048,@AppleSupport why is my clock or notifications not coming up on my lock screen?,apps_services,0.7499535083770752,0.7284996310869852
+1073383,@AppleSupport can you provide an update to fix how much my battery drains when it's unplugged?,battery_power,0.8066834807395935,0.7882455786069235
+287455,@AppleSupport iOS 11.0.2 has made my iPhone overhear and browser slow as hell. My battery drains faster than ever.  Fix this pls,battery_power,0.8171860575675964,0.8037865161895752
+1620547,@AppleSupport Ever since I updated to #iOS11 my iPhone 6s has been losing wifi connection. I’m having to reboot 5/6 times a day grrrrr,connectivity,0.7809229493141174,0.7546965082486471
+1805430,"@AppleSupport the last update deleted most of the contacts out of my phone. Why did it do this,how do I fix it?",photos_data,0.7319315671920776,0.7237198154131571
+768168,My iPhone does nothing but freeze since doing the new update 😡😡😡😡 @115858 @AppleSupport,ios_update_issues,0.9014697074890137,0.8587220509847006
+2434654,"@AppleSupport Yep let me in but wouldn’t show iTunes music purchase, I found it a few weeks back but can’t remember where or how to check from iPhone",purchases_orders_refunds,0.7494609355926514,0.7303858598073324
+827906,my Apple Music hasn’t worked since I got the newest update...what’s goin on @115858,apps_services,0.773848295211792,0.7597054839134216
+373380,@AppleSupport It occurs on any track of any song on Apple Music in general. I also have my account sharing it with my MacBook,apps_services,0.7414247989654541,0.7078624169031779
+1745981,".@AppleSupport why does my screen say this but, I’ve been charged. Yes all is up to date. Yes log in correct. One heck of a month w/@115858 https://t.co/TyEQDLvtcX",purchases_orders_refunds,0.6296173334121704,0.6251310308774313
+1342772,"Yoooo @AppleSupport ever since the update my WiFi wants to work every now and then! Everything else in the house works, my phone doesn’t! https://t.co/FkzUM8byoF",connectivity,0.8201736211776733,0.7657159964243571
+2283108,"@AppleSupport Hi, I just wanted to find out what ssd drives I can use on my MacBook Pro 2015 as my current one is water damaged",hardware_accessories,0.40310975909233093,0.39905444780985516
+1133615,@AppleSupport so how do I go about getting use of my camera back after doing the update 😀😀😀😀😀😀😀😀😀😀,ios_update_issues,0.7760648131370544,0.7315547267595927
+2199279,@AppleSupport icloud is down?? can you please advise when you expect it to be back online?,apple_id_account,0.7321579456329346,0.7144240140914917
+2577100,@AppleSupport When will you guys completely fix this question mark thing? https://t.co/FDW8WaQkcZ,keyboard_input,0.8395318388938904,0.8219566941261292
+2901898,@AppleSupport iPhone X freezes when opening the phone app and visual voicemail doesn’t work on EE. Very poor,apps_services,0.648495078086853,0.6448089083035787
+1011804,@AppleSupport  Are the EarPods with 3.5mm Headphone Plug the same as the ones that come with the  iPods 5th Gen,hardware_accessories,0.5140410661697388,0.4812932511170705
+2712604,Huge #Fail by @115858 and @266097. Impossible to cancel auto renew subscription and get anyone to contact for help. Suggestions on how to CXL? Will person in Apple store be able to do it?,purchases_orders_refunds,0.5817499160766602,0.5733351707458496
+2255501,"@AppleSupport It’s not a specific app. When out in the cold, typing just freezes up.",keyboard_input,0.7107656002044678,0.6956287423769633
+1202887,@AppleSupport As soon as I updated IOS my phone is slow and the camera doesn’t work.,ios_update_issues,0.8190295696258545,0.8035929600397745
+862723,"@115858  plan on fixing all these bugs since the update? ANYTIME a new phone comes out, my perfectly fine old one starts messing up🙄",ios_update_issues,0.8024680018424988,0.7951166232426962
+1010562,Does anyone have a workable way of getting photos from an iPhone6 to an iMac that actually works or have @115858 really turned to shit?,photos_data,0.6218018531799316,0.5671646595001221
+1466146,i️ haven’t even updated and that “i️” autocorrect is already ruining my life what the fuck @115858,keyboard_input,0.7735753059387207,0.7609119415283203
+1020991,@115858 -  Apple TV is now unusable. Password verification is buggy and stupid. Wasted hours of a beautiful day trying to jump thru hoops. FU,apple_id_account,0.714141309261322,0.7123098969459534
+2113794,"I lost over a 100 contacts when I reset my phone cause apparently not all of them saved into iCloud 🙃
+sos @AppleSupport",photos_data,0.7243707180023193,0.6950725714365641
+2575360,"@AppleSupport Any idea why does my iPhone 7 volume keeps turning itself down/off?
+It started since #ios11 upgrade.",ios_update_issues,0.6839971542358398,0.6750829219818115
+1478046,My phone keeps changing the letter I to weird symbols so i had to turn off autocorrect sos pls help @AppleSupport !!!!,keyboard_input,0.8157020807266235,0.7751771211624146
+1336312,"@AppleSupport 
+I made a mistake and I ordered twice. how to cancel the first order",purchases_orders_refunds,0.6540160179138184,0.6427767674128214
+324566,@115858 I did the iOS11 update (have iPhone 7) and now my battery life is worse then the iPhone 5.  What happened?  @AppleSupport,battery_power,0.8201314210891724,0.8063222964604696
+1768174,"After crashing during upload to shared albums, #ios11 photos takes up lots of storage. @AppleSupport : Any way to fix this while en route? https://t.co/rCg1D9aJzA",photos_data,0.6582096815109253,0.629099170366923
+1889704,@AppleSupport since iOS 11.0.3 my SIM card isn’t accepted anymore... thought it was only me but almost all of my friends got the same prob,connectivity,0.7527275085449219,0.6905577977498373
+1648457,alright @115858 you better fix your shit cause it’s really pissing me off that i️ can’t type the letter i️,keyboard_input,0.8864058256149292,0.848277231057485
+1640295,Hey wtf @AppleSupport why can’t I️ see the capitalized letter “i”?!?! I️t shows up as boxes and a question mark https://t.co/IHN5Favkx3,keyboard_input,0.8036878108978271,0.8025668064753214
+1339730,@AppleSupport how can I make a hidden photo album !?,photos_data,0.6296709179878235,0.5920549829800924
+2025614,"@AppleSupport 
+Since couple of hours, my iPhone stucks after entering the (4) last digit for passcode. It stucks and reboots.",device_performance,0.7001422643661499,0.6689401268959045
+1091365,@AppleSupport when is new update coming out to reverse the update that’s ruined peoples phones? Apps n data freeze.,ios_update_issues,0.8090580105781555,0.7934232950210571
+511113,@115858 iphone 8+ charger sucks.  Barley had for two weeks and cable is already tearing.,hardware_accessories,0.698686957359314,0.6882307529449463
+1151865,@AppleSupport how many iPhone X can I preorder on Friday?,purchases_orders_refunds,0.7573574185371399,0.7084855039914449
+2288429,"@115858 screenshot get crash ,wifi get disconnected automatically ,video stop in between ,recent apps become blank ,and many more",ios_update_issues,0.6489060521125793,0.6325956384340922
+1160692,@AppleSupport trying to install #HighSierra and this progress screen haven’t moved/changed in 30+ minutes https://t.co/A1yt35qiYi,ios_update_issues,0.6168016791343689,0.608427365620931
+2893350,"Наконец удалили лишние документы в Icloud. Только звонить туда надо, самому не удалить. Спасибо @AppleSupport. https://t.co/krzWqOcmEz",apple_id_account,0.526028573513031,0.5101950863997141
+1153873,@AppleSupport my phone is so slow so the new iOS update? Only on text messages though? Why is this?,ios_update_issues,0.8745138645172119,0.8583084940910339
+2410123,"This is my third charger for my MacBook Air in the last 3-4 years. Broken again. Either cut costs from $99 to $49, or send me another replacement. This'd my 4th charger, paying just about $400 in power cords. Sick of paying $100 for something that last a year or so.
+@AppleSupport",hardware_accessories,0.6595818400382996,0.6015907526016235
+2052648,"@AppleSupport any help? My iPhone 6s battery has been awful since the iOS 11 update.
+60% charge after 1 hour of usage. What a joke.",battery_power,0.811664342880249,0.7943391799926758
+2358662,"@AppleSupport Thanks for your prompt reply! It has iOS 11.1.1 When I play music, the speakers work. Seems to be only when I'm using the phone, even when I put it on speaker, it doesn't come out through the speaker",hardware_accessories,0.7237327098846436,0.6793369253476461
+302662,"@AppleSupport hi, are you able to make the app animation the same like ios10 I’m getting headaches from changing apps &amp; Dots for connection",ios_update_issues,0.5099643468856812,0.5059825579325358
+2004189,"@AppleSupport Why does my camera quality look worse all of a sudden? When I first got this phone 2 years ago it was nice, now it's 👎🏾",hardware_accessories,0.6635037660598755,0.6426158348719279
+1252505,@AppleSupport hey guys my camera for my iPhone 7 Plus is not working since yesterday and I believe is a bug from the update 11.1.2! Already tried everything and the camera is still all black screen in both sides!! Help!,ios_update_issues,0.8616286516189575,0.8102463086446127
+910636,"@AppleSupport Is over charging a concern with Apple devices? If so, do these products really help? https://t.co/raNc0iKMce",battery_power,0.6563548445701599,0.6479379137357076
+1420702,@AppleSupport is it normal that my order of the iPhone X says preparing for shipment? I am wondering because it should come tomorrow the 3rd,purchases_orders_refunds,0.7806370258331299,0.6992758711179098
+2141648,@AppleSupport I’m using my laptop &amp; most of my purchase are no longer being showed in all my purchase or not on this device,purchases_orders_refunds,0.6528854966163635,0.647358258565267
+856647,"@AppleSupport Of course , use the same cable . It’s original .",hardware_accessories,0.553788423538208,0.5453779896100363
+310250,@applesupport I need some help with my beats headphones. Can I take them into an apple store for an exchange if they stopped working,hardware_accessories,0.6680161952972412,0.5877379973729452
+953188,@AppleSupport @115858 on the next iOS update (11.1 or 11.04) can you remove the bug/annoying feature that keeps turning my WiFi on by itself,connectivity,0.7501459121704102,0.737669308980306
+2364574,@115858 why is it EVERY update slows my phone down more and more and drains my battery more and more 😡🤔 not happy Apple!,ios_update_issues,0.8482954502105713,0.8231748541196188
+2169722,@AppleSupport I just bought the iPhone X and I am having an issue. Can you help?,other_unclear,0.7453362941741943,0.729979952176412
+2137224,How long until the @115858 and @12317 Bluetooth bug gets fixed? Tired of restarting my iPhone every day to reset working link. #ios11bug #inconvenient,connectivity,0.6689493656158447,0.6623431444168091
+1296837,"@AppleSupport I figured that. If I’m an Apple Music subscriber, is there a way I can purchase a single DRM-free song to use in a Photos slideshow?",purchases_orders_refunds,0.46822911500930786,0.44491098324457806
+1641315,@115858 when are you gonna figure out this “type a capital letter eye” and get a question mark in a box issue?,keyboard_input,0.7641992568969727,0.7538479367891947
+2925617,Dear @AppleSupport need help with Apple ID....again.,apple_id_account,0.821678876876831,0.7840580542882284
+2010249,@115858 fix this question mark shit.,keyboard_input,0.8666881322860718,0.8541465799013773
+1892696,"@AppleSupport I got a strange email regarding my account, was wondering if you could verify it",apple_id_account,0.818188488483429,0.8004640340805054
+2633082,@AppleSupport hi. Apple TV stuck in loop asking for password. Can you help?,apple_id_account,0.8037281036376953,0.7179562648137411
+1028557,"@AppleSupport Overnight 11.0.3 wiped my photos from over 3,000 to &lt;200 then backed up to iCloud, wiping out 10 months of baby photos.",photos_data,0.6926743388175964,0.6718203822771708
+1064907,This is the lock screen on my iPhone. Where’s the clock n date gone? IOS 11.0.3  @AppleSupport https://t.co/fp8TXZikwS,ios_update_issues,0.7135058045387268,0.7014453411102295
+500098,@AppleSupport Please undo whatever stupid update you did to the keyboard Play/Pause button in High Sierra. It stops working for iTunes all the time and it’s so annoying.,keyboard_input,0.622443675994873,0.5965175628662109
+2055332,"@116333 , disappointed with #iPhone8Plus. Phone status after upgrade to 11.0.1 for last 48 hours
+Asked to visit service center ! https://t.co/5lChS5PRGB",ios_update_issues,0.746909499168396,0.7276007334391276
+2377167,"@AppleSupport is gunna kill me. I've been without contacts and apps for over two months, and the best answer i've got is ""I don't know... I'll call you back"" on repeat...",apple_id_account,0.6345505714416504,0.6313213507334391
+447427,@AppleSupport HOW DO I STOP MY PHONE FROM LOOKIJG FOR WIFI AND TURNING ON ITS SEARCHING ITS ALREADY WASTING MY BATTERY FAST ENLUGH STOP,connectivity,0.7370450496673584,0.6965823968251547
+1342755,@AppleSupport my messages app keeps crashing on my iPhone 7 and won't allow me to send messages to certain contacts. Please help!,apps_services,0.796309232711792,0.7747113505999247
+331708,"@AppleSupport Data wheel endlessly spinning again with IOS update, time for yet another IPhone reboot 🙄",ios_update_issues,0.726262629032135,0.7066525022188822
+23127,@AppleSupport can I get any help on here?? Or is this not a support account at all?,other_unclear,0.7669000625610352,0.7580503026644388
+1782881,@535669 @115858 All those things been off. The phone itself keeps crashing. Everything is slow and laggy. It’s the worst man,device_performance,0.79680997133255,0.7522082924842834
+2779353,@AppleSupport Tried to update OS System on my Mac and it completely stopped my rebooting process... I had no problems before at all.,ios_update_issues,0.7286535501480103,0.7038424412409464
+382421,@AppleSupport I️ tried that and I️t doesn’t work,other_unclear,0.939893364906311,0.9322620630264282
+2309417,"@AppleSupport sign into iTunes keeps popping up, but when i sign in it says it couldn't connect. won't go away after hitting cancel.",apps_services,0.8262284994125366,0.7515669663747152
+975824,@AppleSupport since updating to iOS 11.0.2 my iPhone 6 Plus won’t stop freezing and crashing. Please fix this issue. It’s unbearable! #ios11,ios_update_issues,0.851681649684906,0.836251417795817
+2004019,@AppleSupport I️ type I️ and I️ get this bullshit ;,keyboard_input,0.8802049160003662,0.8649241725603739
+2676864,@AppleSupport how long does it take for u ups to refund paypal from canceled order,purchases_orders_refunds,0.5866217613220215,0.5672793984413147
+2727134,@AppleSupport why you keep turning my Bluetooth and WiFi on without my permission?,connectivity,0.7116059064865112,0.6852441628774008
+2144063,AND WHY THE FUCK DOES MY LETTER “I️” KEEP TURNING INTO A FUCKING QUESTION MARK @115858,keyboard_input,0.7820334434509277,0.7703800201416016
+54449,@AppleSupport why is photo booth freezing on high serria,apps_services,0.5811854600906372,0.5726138750712076
+1475426,"Hey @115858 I️ def update my phone.....why do I️ still see a box, exclamation mark, and question mark whenever the letter I️ is used 🤔🤨🧐",keyboard_input,0.831695020198822,0.8190768361091614
+961723,This IOS update is really pissiong me off with all this damn freezing! @115858 get yo shit together. @11999 hurry with the new phone!,ios_update_issues,0.8478831052780151,0.8345856269200643
+2307946,"@115858 I recently created an @115948 account but I can’t access the music app, I have deleted it &amp; restarted my phone, yet nothing works",apps_services,0.7408298254013062,0.7014013528823853
+1364807,@AppleSupport my iPhone 8plus keeps disconnecting from my Bluetooth speaker,connectivity,0.7515537738800049,0.7238699197769165
+2476228,"Last week, someone at @AppleSupport almost blackmailed me into buying AppleCare+ for my iPhone X so I can get an ""immediate"" replacement. I gave in, bought it and two days later, I still have no idea when I'll get a replacement.",purchases_orders_refunds,0.6479295492172241,0.6393506725629171
+2280974,"Fuck @115858. Updated my phone, and its been having all kinds of problems. Couldnt answer my calls, so I turned it on then off. Now its stuck on the apple screen.",ios_update_issues,0.7394293546676636,0.7320837577184042
+1979738,"@AppleSupport Take a look at the playlist. How can you sort in right order to ear this opera in good sequence (Act 1 first, etc). Thanks. https://t.co/iMGlIgfgad",apps_services,0.4265027344226837,0.4059280256430308
+1470708,"@AppleSupport Streaming, and yes it happens on WiFi and cellular,",apps_services,0.6642929315567017,0.6478691895802816
+2435366,09/09/17 de servise verdigim ve 5s kalmadigi icin 5se  verecegiz deyip oyaladiginiz telefon ne zaman gelecek sayin @AppleSupport yetkileri,purchases_orders_refunds,0.633723258972168,0.6136264006296793
+1391575,"@AppleSupport Hi, I want to know why I can't record the screen of my iPad with iOS 11",ios_update_issues,0.6758731007575989,0.6641298731168112
+1762792,@AppleSupport my phone battery is draining so faster even after last update. Wtf is going on ? Pls help,battery_power,0.8743875026702881,0.8496465682983398
+2845712,@AppleSupport have an iPod touch that I bought 10/6/2013 son doesn't remember email. How can I reactivate?,apple_id_account,0.6006026268005371,0.5917735894521078
+2631,"@AppleSupport iPhone 7+, iOS 11.1",other_unclear,0.9881467819213867,0.9825983842213949

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# Cache
+cache/
+
+# Raw dataset (download separately using README instructions)
+data/raw/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+data/processed/agent_evaluation_old.csv
+scripts/run_llm_judge_groq_backup.py
+scripts/run_llm_judge_groq_before_rubric.py

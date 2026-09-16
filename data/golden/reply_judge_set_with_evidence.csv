@@ -1,0 +1,1290 @@
+eval_id,customer_tweet_id,customer_text,reply,should_escalate,retrieved_evidence
+1,1745981,".@AppleSupport why does my screen say this but, I’ve been charged. Yes all is up to date. Yes log in correct. One heck of a month w/@115858 https://t.co/TyEQDLvtcX","Could you share what the screen message says, along with your device model and iOS version? That’ll help us pinpoint the issue and guide you further.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport this shit happen as soon as my warranty is over !!! smh
+
+AppleSupport response:
+@235553 We'd like to help you be sure your iPhone is working normally. Send us a DM with more details on what is happening exactly. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6296
+
+HISTORICAL CASE 2
+
+Customer:
+What is going on @AppleSupport @115858 https://t.co/c3rIj7wqkJ
+
+AppleSupport response:
+@523916 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9
+
+Similarity:
+0.6282
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport Charged all the way to 100% last night. Somehow already at 68%. No apps opened.
+
+AppleSupport response:
+@311972 Let's take things to DM from here so we can dig a bit deeper into this. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6176"
+2,2116232,@AppleSupport my itunes gift card money mysteriously disappeared  from my itunes account?,"Hi! First, please check your iTunes balance to confirm the amount is missing. If the balance still shows as zero, we recommend contacting the iTunes Store team for further assistance. If you need help locating the balance or have any other details you can share, let us know!",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport can you check apple gift card with out adding it to your account.
+
+AppleSupport response:
+@211923 Hi there! You can do this by click on the 'Check balance' link in this article: https://t.co/YSjrgVAquU
+
+Similarity:
+0.6858
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport hi, got given an iTunes gift card but the code has peeled off with the label. #HelpPlease
+
+AppleSupport response:
+@484000 Hey there! We'd love to help and recommend reaching out to our iTunes Store team directly: https://t.co/SDIe7UiyJN
+
+Similarity:
+0.6847
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport hi, i've been having some charges on my card from itunes and have no knowledge of it, who can i contact for this
+
+AppleSupport response:
+@327796 For best assistance with unrecognized charges please reach out to our iTunes Advisors here: https://t.co/SDIe7UiyJN
+
+Similarity:
+0.6696"
+3,2948214,@AppleSupport I’ve hard to hard restart my computer 6x in last two days since I updated to High Sierra. Adobe was first issue. Now finder is crashing and won’t relaunch. How about an update to fix all of the bugs in High Sierra please? I refuse to update my personal computer because of this.,"I’m sorry to hear about the crashes. Could you share your Mac model and the exact steps you took before the crashes started? Also, what happens when Finder crashes—does it just quit or does the whole system freeze? Knowing this will help us pinpoint the issue and find a fix.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport high Sierra has broken more or less EVERYTHING on my Mac, it is unusable, constant crashes, broken applications
+
+AppleSupport response:
+@679996 We want you to be able to enjoy macOS High Sierra. To see what's going on, please let us know in DM any steps you’ve taken. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6674
+
+HISTORICAL CASE 2
+
+Customer:
+.@115858 @AppleSupport updated high sierra update and MacBook crashed. It crashed 2nd time since High Sierra has come.
+
+AppleSupport response:
+@483615 We want to make sure you Mac runs smoothly. How long ago did you update? What does it do when it crashes?
+
+Similarity:
+0.6064
+
+HISTORICAL CASE 3
+
+Customer:
+If you value a stable MacBook, don't upgrade to macOs High Sierra. It crashes on every sleep. _every sleep_ @AppleSupport
+
+AppleSupport response:
+@284980 It's important for your MacBook to work properly. Let's work together. Provide us more details on how it crashes.
+
+Similarity:
+0.6034"
+4,1567544,@AppleSupport No I’m just so let down by @AppleSupport  And your ‘senior advisors’ all my iCloud has been deleted after 6 years and no one is helping,"I’m sorry you’re experiencing this loss. To help us investigate, could you let us know your iPhone model, the iOS version you’re running, and when you noticed the data missing? Also, please check the iCloud website to see if the contacts or photos are still there. If you have any recent backups—either via iCloud or iTunes—please share those details. Once we have this information, we can look into recovery options for you.",True,"HISTORICAL CASE 1
+
+Customer:
+@115858 @applesupport Your iCloud recovery has been broken for me for months, your support staff stonewalled me after taking my private data and did nothing.  All of this started because your iOS 11 upgrade nuked my data.
+
+AppleSupport response:
+@233551 We’d like to understand more about this. Please DM us some details and we’ll take it from there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6401
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport last iPhone update has deleted some of my co facts. iCloud restore did not help. :-(
+
+AppleSupport response:
+@641894 Let's take a look at this together. Have you removed any accounts from your iPhone recently? If you log into the iCloud website, do you see your contacts there? Let us know in DM and we'll get started. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6386
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport I haven't backed up my phone to iCloud because I never thought I would need to. I'd rather not loose everything 😐 Please do everyone a favor &amp; let everyone know that Apple devices do this now because people's phones get disabled more often then you think 😐
+
+AppleSupport response:
+@656937 Have you ever done a backup through iTunes?
+
+Similarity:
+0.6261"
+5,1202887,@AppleSupport As soon as I updated IOS my phone is slow and the camera doesn’t work.,Thanks for reaching out. Could you let us know which iPhone model you have and the iOS version you updated to? We’ll look into the slowdown and camera issue.,True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport iOS 11 is so slow on my iPhone 5S. For example the camera app takes 5-10 seconds before it can take a photo. What gives?🤦‍♂️
+
+AppleSupport response:
+@123186 We'd love to look into this. Could you Direct Message us and let us know what iOS version you're on? https://t.co/GDrqU22YpT
+
+Similarity:
+0.8190
+
+HISTORICAL CASE 2
+
+Customer:
+@115858 @AppleSupport my iPhone 5s has many problems, the camera stopped working, and with each software update is slow, should give me a new one
+
+AppleSupport response:
+@265800 let us help you get your device working as expected. Join us in DM so we may better assist you: https://t.co/GDrqU22YpT
+
+Similarity:
+0.8139
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport hi ever since I updated my phone to ios11 my rear camera hasn't worked properly please help
+
+AppleSupport response:
+@170418 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7778"
+6,1168589,"iOS 11.0.3 has killed WiFi, even more unstable and more restarts than the last update 🙄 sort it out @AppleSupport last few have been a joke","Hi, sorry to hear about the WiFi instability after updating to iOS 11.0.3. To help us investigate, could you let us know which device you’re using, the exact iOS version, and any steps you’ve already tried to fix the WiFi? Once we have that info, we can look into a solution.",False,"HISTORICAL CASE 1
+
+Customer:
+ios 11.0.3 is the worst update ever!!! My phone is draining 🔋and everything is crashing and unstable! NOT COOL! 🆘 @118936 @AppleSupport
+
+AppleSupport response:
+@580600 We'll be happy to look into this for you. Meet us in DM with additional details to get started: https://t.co/GDrqU22YpT
+
+Similarity:
+0.7722
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport since I updated to iOS 11.0.2 I have no WiFi. When will this problem be fixed?
+
+AppleSupport response:
+@202204 We'd like to look into this with you. To get started, let us know which device you have.
+
+Similarity:
+0.7656
+
+HISTORICAL CASE 3
+
+Customer:
+Ever since IOS11 been on my phone ...it’s been acting up and having WiFi issues I keep rebooting it and connecting to WiFi @AppleSupport FIX
+
+AppleSupport response:
+@562763 Thanks for reaching out to us for support. We would love to help you. Please DM us so that we can troubleshoot together. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7607"
+7,2577100,@AppleSupport When will you guys completely fix this question mark thing? https://t.co/FDW8WaQkcZ,We’ve shared a workaround that can help you use the app until the issue is fixed in a future update. Give it a try and let us know if it resolves the problem for you.,True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport. y’all gone fix these question marks or what?
+
+AppleSupport response:
+@495777 We've seen the issue you're talking about and we have a workaround for it: https://t.co/xXaXeeSRt9 Did that help?
+
+Similarity:
+0.8395
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport What’s up with the question marks?
+
+AppleSupport response:
+@497746 Thanks for reaching out. We have a workaround for this here: https://t.co/xXaXeeSRt9 DM us if you still need help.
+
+Similarity:
+0.8155
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport pls fix the question mark box thingy
+
+AppleSupport response:
+@374679 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9
+
+Similarity:
+0.8109"
+8,1151854,@AppleSupport which drops the battery time even if the iphone is in standby. please check and fix,"Hi, sorry to hear about the battery drain. Could you let us know your iPhone model, iOS version, and the current battery health percentage? Also, have you noticed any apps running in the background or any recent changes? That info will help us investigate further.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport why my iPhone battery dying so fast ????
+
+AppleSupport response:
+@354690 It's important to have a reliable device; Learn to maximize yours here: https://t.co/TpjqFp3jxD https://t.co/GDrqU22YpT
+
+Similarity:
+0.7223
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport Hi @AppleSupport, I changed the battery of my iPhone and seems that it solved the problem. Thanks for your kind help. Cheers.
+
+AppleSupport response:
+@267188 We are glad that you are all set.  Reach out again if you need further assistance.
+
+Similarity:
+0.7152
+
+HISTORICAL CASE 3
+
+Customer:
+My iPhone runs out of battery so fast it’s ridiculous 😡 @AppleSupport you better fix this
+
+AppleSupport response:
+@271779 Let's examine this battery issue. How long does a full charge usually last? Let us know in DM. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7099"
+9,2296203,"@AppleSupport , setting up iPhone X as new mobile under existing Apple ID.  End result: Apple ID got locked out without at anytime mistyping password. Later forced to change password and naturally laptops, all devices need to have password changed as well. WHY?????","Hi! It sounds like your Apple ID was locked during the iPhone X setup. That can happen if Apple detects unusual activity. To help you unlock it, could you let us know the exact error message you see when you try to sign in? Also, do you have two‑factor authentication enabled on the account? Once we have that info we can guide you through the next steps.",True,"HISTORICAL CASE 1
+
+Customer:
+@115858 I've been completely locked out of my Apple/iCloud ID for almost a month! FaceCime, iCloud, iTunes, email, everything (Case 100339492735). I have an iPhone X 256GB arriving today that I won't be able to setup. Questioning why. My @122986 ID is fine BTW. #timeforandroid?
+
+AppleSupport response:
+@230299 Congratulations on your iPhone X; how exciting! Meet up with us in Direct Message by clicking the link below. We'd like to research this more with you today. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6479
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport my phone will not unlock with my touch ID while on and charging. Why is that? Is this a bug in the update? I have the most recent update
+
+AppleSupport response:
+@784644 Let's work together to figure out what's happening. What happens specifically when you try to unlock your iPhone using Touch ID? Are you receiving an error? Also, when you say most recent update, are you referring to iOS 11.1.1? Please DM us with the answers. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6066
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport My Apple ID it says it was locked for security reasons but it won’t let me unlock it :( @AppleSupport I’m dying here !! Help !!
+
+AppleSupport response:
+@666593 We're very glad you contacted us for assistance. We would recommend taking a look at this article to help you out: https://t.co/HH37urdbz9
+
+Similarity:
+0.5898"
+10,661610,@AppleSupport iOS 11 make my battery die! 😭😔 - IPhone 6s,"Hi, sorry to hear your battery is draining quickly after the iOS 11 update. Could you let us know which country you’re in and whether you’ve checked the battery‑health settings on your iPhone 6s? We’ll guide you through the next steps to help improve battery life.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport iOS11.0.3 killing the battery on out iphone 6 and 7  🤬 #badapple
+
+AppleSupport response:
+@404808 We want to help. First, have you tried the steps here? https://t.co/bivpdfBNJ6
+
+Similarity:
+0.8260
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport my iPhone 6 used to work perfectly before iOS 11 update. And now the battery dies like never before. #Problem
+
+AppleSupport response:
+@609086 We can help with the battery life. Could you Direct Message us and let us know what country you're located in? https://t.co/GDrqU22YpT
+
+Similarity:
+0.8250
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport can you fix iOS 11 when I do stuff on it my battery just dies every 10 minutes
+
+AppleSupport response:
+@165305 We know how important battery life is. Check out: https://t.co/bivpdfBNJ6 and keep us posted.
+
+Similarity:
+0.8101"
+11,712078,@115858 this damn IOS sucks. If I’m listening to a podcast and turn volume up it goes to music. And vise versa... TERRIBLE,"Hi @115858, sorry to hear about the volume issue. Could you let us know which device you’re using and the iOS version? That will help us look into the problem. Thanks!",True,"HISTORICAL CASE 1
+
+Customer:
+@115858 @AppleSupport I’m gonna need a you to get your shit together with this ios11. Freezes every 20 minutes when I’m listening to podcasts
+
+AppleSupport response:
+@433921 We'd like to help. Which device and iOS version are you using? Tap Settings &gt; General &gt; About to find the version number.
+
+Similarity:
+0.7232
+
+HISTORICAL CASE 2
+
+Customer:
+@115858 ios 11 has completely wrecked my phone esp podcasts and music - how/when is the next fix coming??
+
+AppleSupport response:
+@209477 We'd like to help. Send us a DM. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7061
+
+HISTORICAL CASE 3
+
+Customer:
+@115858 iOS 11 is a damn joke. It shouldn’t take this long I️ send a fix for the music and keyboard issues.
+
+AppleSupport response:
+@599539 DM us details of the music issues you're having and we'll be happy to work with you towards a resolution. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6792"
+12,2140986,Hi @AppleSupport. I️ have an issue when I️ type the letter I️. Just saw it on a friend’s message. Screenshot below. Can you help? https://t.co/LLZxw7CoPV,Hi! It sounds like a keyboard autocorrect glitch. The latest iOS update includes a fix for this. Could you let us know your device model and the iOS version you’re running? That’ll help us confirm the best next step.,False,"HISTORICAL CASE 1
+
+Customer:
+So why is this 👉🏾 I️ happening every time i type the letter i? @AppleSupport @115858
+
+AppleSupport response:
+@595009 We'd be happy to work with you. These steps can help: https://t.co/xXaXeeSRt9
+
+DM us if the issue continues. https://t.co/GDrqU22YpT
+
+Similarity:
+0.8497
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport The fact this happens I️ when ever I type the letter “I”
+
+AppleSupport response:
+@701070 We recently released an iOS update, 11.1.1, that contains a fix for autocorrect issues. Let’s be sure to back up your device prior to updating. How to back up: https://t.co/4f8hwT5to6
+
+Similarity:
+0.8000
+
+HISTORICAL CASE 3
+
+Customer:
+Everytime I type the letter ""I"" this pops up. #PleaseFixThis @115858 https://t.co/bhB5snCHXr
+
+AppleSupport response:
+@123680 We're here to help. DM us and tell us the device you have and the exact version of iOS you're running. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7934"
+13,2558616,stop automatically putting my wifi &amp; bluetooth on @115858,"Hi! I’m sorry you’re having trouble with Wi‑Fi and Bluetooth turning on automatically. Could you let me know which iPhone model you’re using, what iOS version it’s running, and whether you’ve already turned Wi‑Fi and Bluetooth off in Settings? That info will help us figure out why they’re re‑activating. Thanks!",True,"HISTORICAL CASE 1
+
+Customer:
+Can you stop turning my Bluetooth on I have it off for a reason @115858
+
+AppleSupport response:
+@116382 We'd like to help you out. Could you clarify what steps you're taking to turn off Bluetooth on your device?
+
+Similarity:
+0.7003
+
+HISTORICAL CASE 2
+
+Customer:
+@115858 fix your shit. why does Bluetooth automatically come on when I reboot my phone?
+
+AppleSupport response:
+@695760 We’d love to team up to see why this is happening. To begin, which iPhone model and iOS version are you using? Also, do you have Bluetooth turned on in Settings &gt; Bluetooth?
+
+Similarity:
+0.6793
+
+HISTORICAL CASE 3
+
+Customer:
+@115858 why does my iPhone automatically turn WiFi or Bluetooth on ? I turn it off for a reason and yet it turns itself on!!! Help a brother out?
+
+AppleSupport response:
+@735336 We can look into this issue together. Shoot us a DM and we'll get started. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6644"
+14,2076419,"@614107 @115858 Literally! My phone keeps freezing and I have to keep hard resetting it, proper annoying",We’re sorry to hear your phone keeps freezing. Could you let us know which iPhone model you have and the iOS version you’re running? That will help us find the best solution for you.,True,"HISTORICAL CASE 1
+
+Customer:
+@115858 why does my phone keep fucking freezing?😡🙃
+
+AppleSupport response:
+@593490 We'd like to look into this together. Does this happen when taking any specific actions? Let us know more in DM, please. https://t.co/GDrqU22YpT
+
+Similarity:
+0.8091
+
+HISTORICAL CASE 2
+
+Customer:
+@115858 my phone freezes like 10 times per day......... and I’m a good person so I avoid force rebooting it unless it really doesn’t unstick
+
+AppleSupport response:
+@196526 Let's look into this together. Could you tell us which iPhone and iOS version you're using?
+
+Similarity:
+0.8054
+
+HISTORICAL CASE 3
+
+Customer:
+@115858 hey it would be really nice if you could fix your fucking software so my phone didn’t freeze every 5 minutes whenever I try to use my fucking phone :-)
+
+AppleSupport response:
+@723914 We definitely don't want your phone to be unresponsive or anything like that. We'll be happy to see how we can help. So we have a better idea of what's going on, can you tell us which iPhone and iOS version you're using?
+
+Similarity:
+0.7809"
+15,1522739,I took such a nice snap and then my phone froze. @115858 I hate your new iOS. Fix. It.,"Hi, sorry to hear your phone froze after taking a photo. To help us look into this, could you share your device model, iOS version, and your country?",True,"HISTORICAL CASE 1
+
+Customer:
+@115858 the new IOS sucks! It’s so glitchy and keeps freezing my phone!!! 😠
+
+AppleSupport response:
+@567777 We'd like to see how we can help. Meet us in DM and give us some examples of what you're experiencing. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7330
+
+HISTORICAL CASE 2
+
+Customer:
+This last IOS broke my phone @115858 you need to do something soon! It’s the worst
+
+AppleSupport response:
+@325570 Hi there. What exactly is going on with your phone? Please let us know in DM; we'd like to help. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7246
+
+HISTORICAL CASE 3
+
+Customer:
+ever since I downloaded the latest ios update my phone has been lagging and freezing...unfuck your self @115858
+
+AppleSupport response:
+@566656 We'd like to gather some more information for better troubleshooting. Can you DM us the country you are located in? https://t.co/GDrqU22YpT
+
+Similarity:
+0.7159"
+16,208261,@AppleSupport On my MBP with Yosemite I can’t update any app nor download new because verification always fail. How do I turn it off?,"Could you share your Mac model, the exact OS version, your App Store account details, and any error messages you see? Let’s discuss this in a DM so we can dig deeper.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport Ok so if my apps aren’t updating how do I️ fix it?
+
+AppleSupport response:
+@533051 Let's look into it together. Send us a DM and we'll get started. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6837
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport my phone is stuck on ""Verifying update"" i cant unlock it due to this and its been stuck like this for two hours now :(
+
+AppleSupport response:
+@297251 We'd be happy to look this over with you. Please meet us in DM so we may gather information, and better assist.
+
+Similarity:
+0.6626
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport I also can‘t load any app updates “download not available”
+
+AppleSupport response:
+@128329 We'd like to look into this further with you. Can you send us a DM with the country you're located in? https://t.co/GDrqU22YpT
+
+Similarity:
+0.6490"
+17,1020880,"@AppleSupport I pre-purchased a book in iBooks that should be available now, but iBooks only shows it as bought - can‘t download. Now what?","Hi @AppleSupport, sorry to hear that. First, check if the book appears in your Purchased section in Books. If it does, make sure you’re signed in with the same Apple ID on the device. Also let me know your iOS version and device model so we can look further.",True,"HISTORICAL CASE 1
+
+Customer:
+Bought a book on iBook but it’s not downloading. Still showing as sample. Explain @AppleSupport
+
+AppleSupport response:
+@531794 We'd be happy to help. Do you see this book in your Purchased section? Our website here has more info: https://t.co/I39AyMJNgb
+
+Similarity:
+0.8596
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport iTunes is refusing to sync the books I have on my Mac iBooks with my iPad iBooks. In fact, it just refuses to show that the books on my Mac are even in there. https://t.co/ZrwrpzGSS7
+
+AppleSupport response:
+@680591 Thanks for reaching out.  We want to help. Are you signed in to the same Apple ID on both devices?
+
+Similarity:
+0.6503
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport just bought an album. Keeps saying item is not available when I try to play it in Music. It won’t let download it either.
+
+AppleSupport response:
+@245206 We'd like to help you enjoy the music you purchased. What happens when you try to download the album?Also, which iOS version are you running?
+
+Similarity:
+0.5234"
+18,768168,My iPhone does nothing but freeze since doing the new update 😡😡😡😡 @115858 @AppleSupport,Hi! I’m sorry to hear your iPhone is freezing after the update. Could you let me know which iPhone model you have and the exact iOS version you’re running? That will help us find the best solution for you.,True,"HISTORICAL CASE 1
+
+Customer:
+@115858 @AppleSupport new update is terrible. My brand new iPhone keeps freezing repeatedly. I’ve had an iPhone for years, never happened
+
+AppleSupport response:
+@162364 Let's make sure you're able to enjoy your new iPhone! Which iPhone are you using? Have you updated to iOS 11.0.2?
+
+Similarity:
+0.9015
+
+HISTORICAL CASE 2
+
+Customer:
+So like my iPhone 7 keeps freezing ever since I did the latest update??? What’s going on???? @115858 @AppleSupport
+
+AppleSupport response:
+@310545 That's not expected behavior. We want you to be able to use your phone. Let's work together on this in DM. https://t.co/GDrqU22YpT
+
+Similarity:
+0.8409
+
+HISTORICAL CASE 3
+
+Customer:
+After numerous updates ...
+My IPhone SE is still freezing and fucking up 
+@115858 @AppleSupport &gt; sort it out!!!
+
+AppleSupport response:
+@544937 That’s not the experience we want for you. DM us the version of iOS 11 your iPhone is on &amp; we’ll work towards a resolution. https://t.co/GDrqU22YpT
+
+Similarity:
+0.8338"
+19,2283108,"@AppleSupport Hi, I just wanted to find out what ssd drives I can use on my MacBook Pro 2015 as my current one is water damaged","Thanks for reaching out. To recommend compatible SSDs for your 2015 MacBook Pro, we need to know the exact model (e.g., 13‑inch 2015, 15‑inch 2015, or 2015 with Retina). Could you share the model identifier or serial number? Once we have that, we can suggest compatible SSD options.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport @115858 what laptop should I buy MacBook, MacBook Air, or MacBook Pro I want to use this for editing &amp; entertaining purposes
+
+AppleSupport response:
+@369802 Thank you for your interest in our products. Let's help get you into the right hands. Please visit: https://t.co/8yjRd1Xo0i
+
+Similarity:
+0.4031
+
+HISTORICAL CASE 2
+
+Customer:
+Hey @AppleSupport , I need help with installing macOS on my formatted hard drive on my MacBook Pro mid 2010 model. I've sent a DM
+
+AppleSupport response:
+@348156 We've got your DM's, and we look forward to working with you there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.4028
+
+HISTORICAL CASE 3
+
+Customer:
+@115858 @AppleSupport are you guys now selling mid 2017 or late 2017 MacBook Pro?
+
+AppleSupport response:
+@406105 Thanks for reaching out! For questions about purchasing a new Mac, reach out to our sales support here: https://t.co/8yjRd1Xo0i
+
+Similarity:
+0.3912"
+20,1933305,Hey @115858. Fix your iOS. Bluetooth is supposed to work.,"Hey @115858, sorry to hear Bluetooth isn’t working. Which device are you pairing with? Also, what iOS version is on your phone? Have you restarted the device since the issue started?",True,"HISTORICAL CASE 1
+
+Customer:
+@115858 please fix this bug on your iOS your stupid “fix I️t” solution isn’t working
+
+AppleSupport response:
+@527716 Send us a DM &amp; we'll continue working there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7564
+
+HISTORICAL CASE 2
+
+Customer:
+@115858 my Bluetooth has not worked in days WTF Apple.
+
+AppleSupport response:
+@740625 We're here to help. Which device are you using with Bluetooth?
+
+Similarity:
+0.7510
+
+HISTORICAL CASE 3
+
+Customer:
+Don’t know if this is a @1511 or iOS problem but Bluetooth is hardly ever recognised these days. @AppleSupport  @281282 https://t.co/9IKrnEXZmU
+
+AppleSupport response:
+@346747 We can see what you mean and want to help. Have your Fitbit and iPhone been restarted since you noticed the issue?
+
+Similarity:
+0.7376"
+21,2255501,"@AppleSupport It’s not a specific app. When out in the cold, typing just freezes up.","It sounds like the keyboard is freezing when the device gets cold. To help troubleshoot, could you let us know which iOS version you’re running and the model of your iPhone?",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport Delyed while typing texts, takes a while to catch up, my apps won’t open majority of the time flicks on then shuts off straight away and when apps do work they freeze so need to restart my phone. Annoying.
+
+AppleSupport response:
+@697408 Got it, thank you very much. Are you currently running iOS 11.1.1? You can view this under Settings &gt; General &gt; About.
+
+Similarity:
+0.7108
+
+HISTORICAL CASE 2
+
+Customer:
+@115858 @AppleSupport Like thiS and the fact that it takes me 20 minutes to type one text because the app keeps crashing. THE FUCKING MESSAGE APP WTF IS THIS https://t.co/dYaMRmtJjk
+
+AppleSupport response:
+@600827 We want to be sure you can use your iPhone as you'd expect. We'd like to help! DM us and we'll look into this further with you. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6905
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport It’s very slow opening apps. While typing in texting, Twitter, etc. there is a considerable lag between when I press the letter and when it shows up on the screen. Those are the main problems.
+
+AppleSupport response:
+@782598 Which version of iOS 11 you have installed on your device. You'll see this in Settings &gt; General &gt; About. Please tell us in DM. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6856"
+22,2060791,Aftr t new app update @4305 doesn't show notifications until I open the https://t.co/srWvNzKJrn @AppleSupport,"Hi @AppleSupport, sorry you’re having trouble with notifications after the app update. Could you let us know which iPhone/iPad model you’re using and the iOS version? Also, please check Settings → Notifications to confirm that notifications are enabled for that app. Once we have that info we can guide you further.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport what’s going on with the new update? It’s not showing the little red notification above an app anymore 🙄🙄🙄🙄🙄🙄🙄
+
+AppleSupport response:
+@591763 We want to help with this! What model of iOS device are you using? Do you have the most recent version of iOS 11.1 downloaded? https://t.co/GDrqU22YpT
+
+Similarity:
+0.7836
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport I meant that ever since I updated my iOS to the latest version, I’m not getting any notifications from any app. That’s really annoying
+
+AppleSupport response:
+@362814 We're happy to help! Please go to Settings &gt; Notifications. Then DM us with the country you're in for additional help. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7574
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport now this is going on...
+11.1.1 and the notifications are still screwed up https://t.co/hXUflzILkh
+
+AppleSupport response:
+@498939 How often does this happen? Is it happening with all notifications?
+
+Similarity:
+0.7237"
+23,862723,"@115858  plan on fixing all these bugs since the update? ANYTIME a new phone comes out, my perfectly fine old one starts messing up🙄","Thanks for reaching out. To help us address the bugs after the latest update, could you share your device model, iOS version, and a brief description of the problems you’re experiencing?",True,"HISTORICAL CASE 1
+
+Customer:
+@115858 everyone of your new updates has done nothing but bug my phone more and more everytime😑
+
+AppleSupport response:
+@700264 We're here to help. To start, what device model are you using and what issue(s) are you experiencing exactly?
+
+Similarity:
+0.8025
+
+HISTORICAL CASE 2
+
+Customer:
+@115858 can y’all get these updates right? My phone is still bugging out
+
+AppleSupport response:
+@739541 We want to help you with this. Can you tell us more about what you're experiencing? Is this occurring with iOS 11.1.2?
+
+Similarity:
+0.7917
+
+HISTORICAL CASE 3
+
+Customer:
+Updated my phone last night and now I’m having a million problems with my phone. Thanks @115858
+
+AppleSupport response:
+@697903 We're here for you. Send us a DM with the details of the issues you're experiencing and we'll get started there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7912"
+24,1620586,So I️ think everyone accepted the stupid fucking question mark boxes @115858 except me this shit is annoying,"Hi, I understand the question‑mark boxes are frustrating. The quickest fix is to back up your device and update to the latest iOS. Let me know your device model and iOS version so I can guide you through the backup and update steps.",True,"HISTORICAL CASE 1
+
+Customer:
+Okay these question mark boxes that appear whenever referring to myself is annoying @115858 fix this shit immediately
+
+AppleSupport response:
+@661415 We are here to help. Let's backup your device and update to the newest version available. Let us know if you need further help.
+
+Similarity:
+0.7366
+
+HISTORICAL CASE 2
+
+Customer:
+@115858 fix that box and question mark shit
+
+AppleSupport response:
+@629936 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9
+
+Similarity:
+0.6899
+
+HISTORICAL CASE 3
+
+Customer:
+@115858 fix the damn question mark boxes!
+
+AppleSupport response:
+@508863 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXefaskH
+
+Similarity:
+0.6859"
+25,873948,"Hey @AppleSupport, the update to the podcast app seems to have added a click or two to the process of actually playing a podcast 👎","Thanks for reaching out! To help us pinpoint the issue, could you let us know which iPhone or iPad model you’re using and the iOS version? Also, what steps do you take from opening the app to actually starting playback? If you’ve tried restarting or reinstalling the app, that would be helpful to know as well.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport Only podcasts were effected. I was using the second to most recent version, I updated after it happened in the vain hopes it was a glitch an update could fix. I’m now downloading the back catalogs very, very, very slowly.
+
+AppleSupport response:
+@667521 Do you remember anything happening around the time this happened? Did you sign out of your account or change an Apple ID email address, that you remember?
+
+Similarity:
+0.7530
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport why won’t the podcast app automatically play the next episode? #iOS11 encourages me to mess w/ my phone while driving.
+
+AppleSupport response:
+@529467 We'd like to help. This shows how to add an episode to 'Up Next', so you can listen continuously: https://t.co/0gqixjw5bJ
+
+Similarity:
+0.7504
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport 11.1.2, Apple Music/Podcasts app. Both have the bug
+
+AppleSupport response:
+@796312 Can you tell us anything you've attempted so far to fix this?
+
+Similarity:
+0.7451"
+26,1010562,Does anyone have a workable way of getting photos from an iPhone6 to an iMac that actually works or have @115858 really turned to shit?,"Hi! To help you get photos from your iPhone 6 to your iMac, could you let us know the iOS version you’re running? Also, are you currently using iCloud Photos or another method? Once we have that info we can guide you through the best way to sync or transfer your photos.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport hiya I’d like to send my pictures from my old iPhone6 to my new iPhone8+ via iCloud but it’s not working hope you can help me?
+
+AppleSupport response:
+@504913 We'd be happy to get you pointed in the right direction. Check out: https://t.co/8YUslsnsM5 DM us if this does not help: https://t.co/GDrqU22YpT
+
+Similarity:
+0.6218
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport iPhone 6s and the latest software.
+
+AppleSupport response:
+@389763 Got it. DM us the exact iOS software version from Settings &gt; General &gt; About &gt; Version. We'll meet you there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.5423
+
+HISTORICAL CASE 3
+
+Customer:
+@115858 Need help with my #iphone6. Was working great before upgrade to #iOS11. Now slow af. Almost as if Apple planned it so I’d buy new phone 🤔
+
+AppleSupport response:
+@301916 We are here for you. Could you let us know the exact iOS version you are running?  You can see at Settings &gt; General &gt; About.
+
+Similarity:
+0.5374"
+27,449438,@AppleSupport I can’t sync up with anything,"Hi! I’m sorry you’re having trouble syncing. Could you let me know which device you’re using, the iOS version, and what you’re trying to sync (e.g., iCloud, contacts, photos, etc.)? That will help me give you the right steps.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport So what I have to do to fix this?
+
+AppleSupport response:
+@272348 DM us and we can work on your issues with your iPhone running slower than expected. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7914
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport Working now
+
+AppleSupport response:
+@121480 Awesome! Let us know if you need help in the future.
+
+Similarity:
+0.7820
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport how can I️ fix this I️
+
+AppleSupport response:
+@277348 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9
+
+Similarity:
+0.7774"
+28,2616499,@739051 @AppleSupport I just bought my iphone 6 second hand. I thought it was a dodgy battery because it drained quick. It looks like I'm not the only one. Hmmmm!,"Thanks for reaching out. To help figure out why your iPhone 6 is draining quickly, could you let us know how long it lasts on a full charge, what iOS version it’s running, and if you notice any particular apps or activities that drain the battery faster? You can also check the battery health in Settings > Battery > Battery Health to see the maximum capacity. Once we have that info, we can guide you further.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport iPhone 6S , battery life sucks ass 🙃
+
+AppleSupport response:
+@696230 Got it. Do you know approximately how long your iPhone 6s lasts on a fully charged battery? Does this happen while using any particular apps? Let us know via a DM. We’ll keep moving forward from there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7437
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport IPhone 6, been worse since recent iOS updates and also started using Apple Watch. Battery now drained in 6 hours.
+
+AppleSupport response:
+@273633 We'll take a closer look. Let's meet up in DM to gather details and to protect your privacy. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7376
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport Why does my iphone 6s plus turn into an unresponsive piece of shit when it reaches at or below 30% battery? 🙄🙄
+
+AppleSupport response:
+@217672 We can figure this out together. Does this happen with a particular app or is it widespread? What iOS version are you using?
+
+Similarity:
+0.7164"
+29,282529,@115858 @116333 I urgently resolve the problem with my iPhone. 📱 Contact ID: 100314535803,"Hi @115858 @116333, thanks for reaching out. Could you let us know your iPhone model, the iOS version you’re running, and what issue you’re experiencing? That will help us find the best solution.",True,"HISTORICAL CASE 1
+
+Customer:
+Who else is having a problem with their IPhone @115858 @AppleSupport
+
+AppleSupport response:
+@250308 We would like to hear more about what is going on. Please send us a DM with details and we will go from there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7284
+
+HISTORICAL CASE 2
+
+Customer:
+@654768 @115858 @AppleSupport My phone does the same, it's a pain aha
+
+AppleSupport response:
+@680598 We'll do all we can to help out. Are you also using a portable charger when your iPhone powers off unexpectedly? Which version of iOS are you currently using?
+
+Similarity:
+0.7196
+
+HISTORICAL CASE 3
+
+Customer:
+@116333 disappointed loyalist, iPhone 8 running around with issues &amp; embarrassments, no solution pls help sent details in mail to you
+
+AppleSupport response:
+@160233 We'd be happy to look into this with you. Send us a DM and tell us more about what's going on. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7191"
+30,1204160,@AppleSupport my new iPhone 6s battery is useless. Fully charged last night and now in low power mode! Hardly used and no Apps Open!!,Thanks for reaching out. Could you let us know which iOS version your iPhone 6s is running? That will help us determine the next steps to address the battery issue.,True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport Why does my iphone 6s plus turn into an unresponsive piece of shit when it reaches at or below 30% battery? 🙄🙄
+
+AppleSupport response:
+@217672 We can figure this out together. Does this happen with a particular app or is it widespread? What iOS version are you using?
+
+Similarity:
+0.7157
+
+HISTORICAL CASE 2
+
+Customer:
+Hi @AppleSupport my iPhone 6s Plus battery doesn’t seem to hold its charge too well. Anything you can do to find out the problem?
+
+AppleSupport response:
+@244392 Absolutely! We’ll be glad to see how we can help. To start, can you tell us the iOS version your iPhone is on?
+
+Similarity:
+0.7135
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport we have an iPhone  6s and iPhone 7 that are turning off as though no battery then turning back on after a few minutes, help?
+
+AppleSupport response:
+@249495 Thanks for reaching out, we'd like to help. Is this issue occurring on iOS 11.1.2? If so, we recommend the steps for updating here: https://t.co/Wc5MHFZb0p DM us if you have any questions and keep us posted on the results. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6988"
+31,2647130,My iPhone is stating to heat up when it’s just sitting there. Thanks @115858 for the hot fire update to ruin my phone......again,Hi! I’m sorry to hear your iPhone is heating up. Could you let me know which iOS version you’re running and the model of your device? That will help us investigate the issue further.,True,"HISTORICAL CASE 1
+
+Customer:
+I phone acting up again , home button gets scorching hot. Phone gonna explode @115858
+
+AppleSupport response:
+@768331 That's not the experience we want you to have. Join us in DM so we may better assist you: https://t.co/GDrqU22YpT
+
+Similarity:
+0.7047
+
+HISTORICAL CASE 2
+
+Customer:
+@115858 @AppleSupport MY IPHONE 8 just randomly caught fire WTF I NEED ANSWERS
+
+AppleSupport response:
+@690126 We'd like to help with your iPhone 8. DM us your current location and we'll get started. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6911
+
+HISTORICAL CASE 3
+
+Customer:
+The fact that my iPhone gets hot as shit all the damn time. @115858 y’all really have to do better 🙄.
+
+AppleSupport response:
+@135069 We’re glad you reached out! We’d like to take a closer look at this issue with you. Let us know which version of iOS you’re running in DM. We’ll continue working with you there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6892"
+32,403562,why did my entire camera roll just randomly completely clear then restore? and why is a vid from june is the most recent item? @AppleSupport https://t.co/aTvndqZau0,"Hi! It sounds like your Camera Roll had a sync or update hiccup. To help us pinpoint the cause, could you let us know your iPhone model, iOS version, and whether iCloud Photos is enabled? Also, did you notice any recent updates or changes to your storage settings? Thanks!",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport When I updated my iPhone X to 11.1.2, the pictures in Camera Roll went from chronological to random shuffled! Help please?
+
+AppleSupport response:
+@478975 Hi. This is unexpected and we'd like to look into it with you. Have you had a chance to restart the iPhone? To restart your iOS device: https://t.co/JWOTqcWcbG
+
+Similarity:
+0.5636
+
+HISTORICAL CASE 2
+
+Customer:
+my phone just deleted over 9K pictures from my camera roll. If this is some sick joke to get me to by the new iPhone, @115858, it’s never happening again
+
+AppleSupport response:
+@631382 Let's help take a closer look at this with you. Reach out to us via: https://t.co/IBIY3vMgPj and we can go from there.
+
+Similarity:
+0.5615
+
+HISTORICAL CASE 3
+
+Customer:
+all my pictures keep disappearing from my camera roll and now it says i have 0 @115858 those are my memories i'm upset
+
+AppleSupport response:
+@686588 We're here to help. Let's look into this further in DM. 
+
+Send us a message with your IOS version, the latest is iOS 11.1.2. https://t.co/GDrqU22YpT
+
+Similarity:
+0.5260"
+33,1805815,"@115858 what is the procedure for degrade ios from 11 to 10..??
+
+As your ios 11 is pathetically stupid &amp; bugicious😂","We don’t have a way to downgrade from iOS 11 to iOS 10. However, we can help you with any issues you’re having. Could you let us know your device model and the specific problems you’re experiencing? Please DM us so we can assist further.",False,"HISTORICAL CASE 1
+
+Customer:
+Is there a way to DOWNGRADE an #iOS version? @115858’s latest update has ruined my phone 🙄
+
+AppleSupport response:
+@247274 We don't provide a method to downgrade your software but we're happy to help with any issues you're having with iOS 11. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7794
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport No use! Can you pls tell me canni degrade back to ios10??
+
+AppleSupport response:
+@184053  We'd like to look into this further with you. Send us a DM, and we'll go from there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7636
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport @116333 please, let us downgrade for iOS 10. I can’t handle this billion issues happening on my iPhone 7 w/ iOS 11. HELP!
+
+AppleSupport response:
+@573404 Thanks for reaching out to us for support. We would love to help you. Please DM us so that we can troubleshoot together. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7543"
+34,2283391,@AppleSupport 3D touch in screen #ios11 isn’t work why?,"It looks like the screenshot shortcut that used a 3‑D press on the Assistive Touch button was removed in iOS 11. 3‑D Touch still works for other functions, but that particular shortcut isn’t available.  Could you let me know which iPhone model you’re using and the exact iOS version? That will help me confirm what 3‑D Touch features are supported on your device.",True,"HISTORICAL CASE 1
+
+Customer:
+The screenshot feature by 3D pressing the assistive touch button discontinued from IOS11 ? #ios11update @115858 @AppleSupport
+
+AppleSupport response:
+@177852 Great question! That's not currently available, but we do welcome your feedback about this feature here: https://t.co/eTPVYVFyd8
+
+Similarity:
+0.7317
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport 6s with iOS 11
+
+AppleSupport response:
+@501227  You can update to iOS 11.1.  We recommend backing up your device before updating.  Here's how: https://t.co/4f8hwT5to6 https://t.co/GDrqU22YpT
+
+Similarity:
+0.7260
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport IOS 11
+
+AppleSupport response:
+@527118 You can find your specific iOS version from Settings &gt; General &gt; About. Let us know in DM. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7240"
+35,366986,@115858 I was charged for a subscription that I canceled the same day I accepted the free trails why was I charged?,"Hi @115858, I’m sorry to hear you were charged after canceling the free trial. To help resolve this, could you let me know the name of the app, the date you canceled, and any receipt or confirmation you received? Once we have those details, we can forward the issue to our iTunes support team who can investigate the charge and provide a resolution.",True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport why are you guys allowing an app to charge me I canceled the subscription in my phone  already two weeks ago. And now I can’t download any apps
+
+AppleSupport response:
+@117504 Thanks for reaching out. We received your DM and we'll continue from there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.5896
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport I’ve been charged almost £200 for a subscription renual for an app I did not authorise... I’ve had to call my bank and stop further payments! Can you contact me immediately!!! - Paige. https://t.co/laokhdu1J5
+
+AppleSupport response:
+@667362 If you see a charge for an app you did not authorize, our iTunes Support have the appropriate tools to look into this with you and resolve your issue. You can contact them here:  https://t.co/SDIe7UiyJN
+
+Similarity:
+0.5534
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport I need help.  I was charged for an app which was overdue the free trial as I was unable to cancel due to a system error. Help!
+
+AppleSupport response:
+@230642 Thanks for reaching out to us. We would absolutely love to help you. In order to get this taken care of, you will need to reach out directly to our iTunes team: https://t.co/SDIe7UiyJN
+
+Similarity:
+0.5434"
+36,2619794,"Since the new update, my phones going so slow, stuttering and stalling 😩😩 @AppleSupport",Thanks for reaching out. Could you share your iOS version and device model? Please DM us so we can help further.,True,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport @115858 this newest update is absolutely terrible. My phone has never lagged so much, and it has some many cons with it! Please just fix it.
+
+AppleSupport response:
+@625814 We want to help. DM us and we'll continue there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7961
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport really let me down with this new update! Phone freezing and glitching every 5 mins wtf...
+
+AppleSupport response:
+@605790 Let's take a look at this performance issue for you. Send us a DM with your exact iOS 11 version to get started. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7910
+
+HISTORICAL CASE 3
+
+Customer:
+Hey @AppleSupport the new update sucks ass &amp; keeps freezing my phone.
+
+AppleSupport response:
+@600697 Let's get your iPhone working as expected. Reach out to us via DM with your specific iOS version. We'll meet you there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7754"
+37,956058,@115858 love it when my headphones break + fuck up my phone so i cant listen to a song without wnating to throw jt at a fucking wall,"Hi @115858, sorry to hear about the trouble. It sounds like a software issue that can often be resolved by updating to the latest iOS. Could you let me know your iPhone model and current iOS version? Also, what headphones are you using? That will help us find the best fix.",True,"HISTORICAL CASE 1
+
+Customer:
+@115858 i️ need u to fix ur damn phones bc i️ know this shit is annoying as hell i️ 😤
+
+AppleSupport response:
+@695776 We've released a fix for this issue in the latest iOS version which is iOS 11.1.1. To install this version, make sure to create a backup and update using the steps here: https://t.co/80YRnjDFDk
+
+Similarity:
+0.7048
+
+HISTORICAL CASE 2
+
+Customer:
+My phone just crashed😒 wtf @115858
+
+AppleSupport response:
+@685843  We are eager to find out what's going on and how we can get your device working again. Send us a DM with the device model. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6927
+
+HISTORICAL CASE 3
+
+Customer:
+@115858 STOP PLAYING AND FIX Y’ALL PHONES IVE BEEN A LOYAL CUSTOMER AND NOW IM SICK OF IT
+
+AppleSupport response:
+@710041 We'd like to see if we can help with your iPhone. Send us a DM with more information about what's going on, and we'll get started. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6921"
+38,284411,On god my apps have never crashed this much in a short span of time...@115858 y’all need to fix iOS 11 smh,"Hey, let’s look into this. Are the crashes happening with one app or multiple apps? Also, could you share your device model and the exact iOS version you’re running?",False,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport iOS 11 sucks! Always having to reboot now; apps are constantly crashing. Fix or I’ll switch to android.
+
+AppleSupport response:
+@605746 Hey, if you'd like, we can work together to see what's going on. Let's meet in DM and we can go from there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.8071
+
+HISTORICAL CASE 2
+
+Customer:
+Is yall gonna fix ios11 or nah @115858? I'm tired of my shit crashing
+
+AppleSupport response:
+@127220 We can help. Does the iPhone completely restart or do you have issues with apps? DM us here: https://t.co/GDrqU22YpT
+
+Similarity:
+0.7968
+
+HISTORICAL CASE 3
+
+Customer:
+Hey @115858! Fix iOS11... Constant app crashes on my iPhone 8 Plus...
+
+AppleSupport response:
+@580412 Let's look into this. Are you experiencing this with one App or multiple Apps? Let us know in DM. https://t.co/GDrqU22YpT
+
+Similarity:
+0.7756"
+39,679934,"@AppleSupport So when the Apple Watch isn't able to control the music app on the phone, is it the watch, or the phone that is failing?","It could be either side. To help us pinpoint the issue, could you let us know the iOS version on your iPhone, the watchOS version on your Apple Watch, and whether the problem still occurs after restarting both devices?",False,"HISTORICAL CASE 1
+
+Customer:
+@AppleSupport Is there an update for the Apple Watch? My iPhone is the only device not doing I️t now.
+
+AppleSupport response:
+@223289 We haven't released any updates for the Apple watch recently. Are all of your other IOS devices updated to 11.1.1?
+
+Similarity:
+0.6681
+
+HISTORICAL CASE 2
+
+Customer:
+@AppleSupport Why does the activity app for Apple Watch say that it is unavailable because it requires features I don’t have on my iPhone 7?
+
+AppleSupport response:
+@406104 Great question. Let’s look into this further together. Send us a DM telling us which watchOS version is on your Apple Watch. Also, let us know if the same message occurs after you have restarted your Apple Watch and iPhone. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6559
+
+HISTORICAL CASE 3
+
+Customer:
+@AppleSupport Music controls aren’t showing up on the lock screen for Spotify. Newest iOS has ruined my phone too... 🙁11.0.2
+
+AppleSupport response:
+@325976 We're here to help. Shoot us a DM of what country or region you're located in. https://t.co/GDrqU22YpT
+
+Similarity:
+0.6461"
+40,1684529,@115858 fix yalls damn keyboard,"Sure, @115858. What issue are you having with your keyboard? Let us know the symptoms and your device model so we can help you further.",True,"HISTORICAL CASE 1
+
+Customer:
+Fucking* @115858 fix your keyboard
+
+AppleSupport response:
+@733470 We're happy to help. What issue are you having with your keyboard?
+
+Similarity:
+0.9270
+
+HISTORICAL CASE 2
+
+Customer:
+seriously @115858 what the fuck is going on with my keyboard
+
+AppleSupport response:
+@475481 Let's look into that. Send us a DM and we'll go from there. https://t.co/GDrqU22YpT
+
+Similarity:
+0.8390
+
+HISTORICAL CASE 3
+
+Customer:
+@115858 so y’all still ain’t gone fix our keyboard? Y’all childish fam
+
+AppleSupport response:
+@479732 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9
+
+Similarity:
+0.8346"
