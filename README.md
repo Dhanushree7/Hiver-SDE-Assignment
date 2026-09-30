@@ -1,7 +1,7 @@
 ﻿# Hiver SDE Intern Assignment
 ## AI Customer Support Agent
 
-An AI-powered customer support agent built using the Customer Support on Twitter dataset.
+AI-powered customer support agent with intent classification, retrieval, grounded response generation, and escalation evaluation.
 
 **Selected Brand:** AppleSupport
 
@@ -21,6 +21,10 @@ An AI-powered customer support agent built using the Customer Support on Twitter
 - Sentence Transformers
 - Groq LLM
 - Retrieval-based response generation
+- NLP
+- Machine-learning
+- Sentence-transformers
+- Customer-support
 
 ## Project Structure
 
